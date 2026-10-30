@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Tiga Sahabat: Rahasia 3 Wujud Zat",
+  "description": "Media pembelajaran digital interaktif IPAS Kelas 3 SD mengenai 3 wujud zat bersama Si Padat, Si Cair, dan Si Gas dengan laboratorium virtual, permainan edukatif, dan kuis interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
